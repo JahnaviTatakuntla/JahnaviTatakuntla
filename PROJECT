@@ -17,7 +17,7 @@ RECREATING THE GIVEN PAGE ON NEXTJS USING DATA IN THE IMAGE STORED AS JSON DATA 
 
 
 
-// DESCRIPTION:In this block of code, the "TITLE"of the given article is written in the givenformat.
+// DESCRIPTION:In this block of code, the "TITLE" of the given article is written in the given format.
 
 <html>
 <head>
@@ -30,7 +30,7 @@ RECREATING THE GIVEN PAGE ON NEXTJS USING DATA IN THE IMAGE STORED AS JSON DATA 
 
 
 
-//DESCRIPTION:Here the whole page is divided intoframes with 60 and 40 pixels.
+//DESCRIPTION:Here the whole page is divided into frames with 60 and 40 pixels.
 
 <html>
 <head>
@@ -67,7 +67,7 @@ Kimberly R Moseler </br>
 
 
 
-//DESCRIPTION:Here I have saved the given imagewith the name "baba.png" and then given the codeto represent the image in the page with given frame size 40 pixels.
+//DESCRIPTION:Here I have saved the given image with the name "baba.png" and then given the code to represent the image in the page with given frame size 40 pixels.
 
 <html>
 <head>
