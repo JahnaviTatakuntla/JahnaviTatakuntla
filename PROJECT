@@ -1,4 +1,5 @@
-// AIM OF THE PROJECT :RECREATING THE GIVEN PAGE ON NEXTJS USING DATA IN THE IMAGE STORED AS JSON DATA USING TAILWIND OR SIMILAR CSS FRAMEWORK.
+// AIM OF THE PROJECT :
+RECREATING THE GIVEN PAGE ON NEXTJS USING DATA IN THE IMAGE STORED AS JSON DATA USING TAILWIND OR SIMILAR CSS FRAMEWORK.
 
 
 // EXECUTED CODE DESCRIPTION :In this block of code we have divided the page into frames which will be divided into 10 pixels and 90 pixels respectively.
@@ -79,5 +80,4 @@ Kimberly R Moseler </br>
 
 
 // ANSWER OF THIS CODE : https://drive.google.com/file/d/1PtYy482vn5R0uculOBc8pzEFe44qwQ5W/view?usp=drivesdk
-
 
