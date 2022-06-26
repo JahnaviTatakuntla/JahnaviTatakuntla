@@ -1,12 +1,8 @@
 // AIM OF THE PROJECT :
-RECREATING THE GIVEN PAGE ON NEXTJS USING 
-DATA IN THE IMAGE STORED AS JSON DATA USING 
-TAILWIND OR SIMILAR CSS FRAMEWORK.
+RECREATING THE GIVEN PAGE ON NEXTJS USING DATA IN THE IMAGE STORED AS JSON DATA USING TAILWIND OR SIMILAR CSS FRAMEWORK.
 
 
-// EXECUTED CODE DESCRIPTION :In this block of code we have 
-divided the page into frames which will be 
-divided into 10 pixels and 90 pixels respectively.
+// EXECUTED CODE DESCRIPTION :In this block of code we have divided the page into frames which will be divided into 10 pixels and 90 pixels respectively.
 
 <html>
 <head>
@@ -21,9 +17,7 @@ divided into 10 pixels and 90 pixels respectively.
 
 
 
-// DESCRIPTION:In this block of code, the "TITLE"
-of the given article is written in the given
-format.
+// DESCRIPTION:In this block of code, the "TITLE"of the given article is written in the givenformat.
 
 <html>
 <head>
@@ -36,8 +30,7 @@ format.
 
 
 
-//DESCRIPTION:Here the whole page is divided into
- frames with 60 and 40 pixels.
+//DESCRIPTION:Here the whole page is divided intoframes with 60 and 40 pixels.
 
 <html>
 <head>
@@ -52,10 +45,7 @@ format.
 
 
 
-// DESCRIPTION: This block of code executes the 
- given matter in the place where we have divided 
-the frame into 60 pixels.And respective colours 
-and fonts are given as per the given sample page.
+// DESCRIPTION: This block of code executes the given matter in the place where we have divided the frame into 60 pixels.And respective colours and fonts are given as per the given sample page.
 
 <html>
 <head>
@@ -77,10 +67,7 @@ Kimberly R Moseler </br>
 
 
 
-//DESCRIPTION:Here I have saved the given image
-with the name "baba.png" and then given the code
-to represent the image in the page with given 
-frame size 40 pixels.
+//DESCRIPTION:Here I have saved the given imagewith the name "baba.png" and then given the codeto represent the image in the page with given frame size 40 pixels.
 
 <html>
 <head>
